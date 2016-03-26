@@ -9,7 +9,7 @@ import React, {
     Image,
     ListView,
     StyleSheet,
-    Text,
+    Text,   
     Alert,
     View,
     TouchableHighlight,//Button
